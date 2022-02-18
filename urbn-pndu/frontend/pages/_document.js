@@ -12,7 +12,6 @@ export default class MyDocument extends Document {
         return (
             <Html lang="en_CA">
                 <Head>
-
                 </Head>
                 <body>
                     <Main />
